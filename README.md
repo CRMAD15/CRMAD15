@@ -9,8 +9,8 @@
 ## My Projects
 <ul>
     <li>   <a href="https://github.com/mdelgado333/TENET/tree/main" > <h5> TENET </h5></a>  🎮 First project developed with Canvas for the visual part and Javascript for the logical part and DOM´s manipulation. It is a single player shutter videogame </li>
-    
-    <li>   <a href="https://github.com/GabrielaBenalcazar/Pokered" > <h5> POKERED </h5></a>  🐧  </li>
+<!--     
+    <li>   <a href="https://github.com/GabrielaBenalcazar/Pokered" > <h5> POKERED </h5></a>  🐧  </li> -->
 </ul>
 
 
