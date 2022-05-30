@@ -12,6 +12,13 @@
             alt="cristian calderón" height="30" width="40" /></a>
 </p>
 
+## My Skills
+
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CRMAD15&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="CRMAD15's Top Languages" align="right" width="330">
+
+<img src= "https://github-readme-stats.vercel.app/api?username=CRMAD15&&show_icons=true&title_color=8ecae6&icon_color=ffb703&text_color=219ebc&bg_color=023047" alt="CRMAD15's Git Stats">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
