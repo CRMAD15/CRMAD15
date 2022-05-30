@@ -1,15 +1,30 @@
 <h1 align="center">Hi 👋, I'm Cristian Calderón</h1>
-- 🔭 I’m currently working on [re-educ](https://re-educ.netlify.app/)
 
-- 💬 Ask me about **html, css, javascript, reactjs**
+
+<h3 align="center"> A Full Stack Developer based in Madrid.  I fell in love with Javascript, Reactjs and Nodejs.  </h3>
+<hr>
 
 - 📫 How to reach me **cristianfab90@gmail.com**
+ 
+## My Projects
+<ul>
+    <li>   <a href="https://github.com/mdelgado333/TENET/tree/main" > <h5> TENET </h5></a>  🎮 First project developed with Canvas for the visual part and Javascript for the logical part and DOM´s manipulation. It is a single player shutter videogame </li>
+    
+    <li>   <a href="https://github.com/GabrielaBenalcazar/Pokered" > <h5> POKERED </h5></a>  🐧  </li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/cristian calderón" target="blank"><img align="center"
+    <a href="https://twitter.com/cris_fab" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="cris_fab" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/cristian-calderon-web-dev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="cristian calderón" height="30" width="40" /></a>
+            alt="cristian-calderon-web-dev" height="30" width="40" /></a>
+    <a href="https://instagram.com/yggdrasil_mid" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="yggdrasil_mid" height="30" width="40" /></a>
 </p>
 
 ## My Skills
