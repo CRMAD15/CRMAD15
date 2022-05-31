@@ -7,13 +7,26 @@
 - 📫 How to reach me **cristianfab90@gmail.com**
  
 ## My Projects
-<ul>
-    <li>   <a href="https://github.com/mdelgado333/TENET/tree/main" > <h5> TENET </h5></a>  🎮 First project developed with Canvas for the visual part and Javascript for the logical part and DOM´s manipulation. It is a single player shutter videogame </li>
-<!--     
-    <li>   <a href="https://github.com/GabrielaBenalcazar/Pokered" > <h5> POKERED </h5></a>  🐧  </li> -->
-</ul>
 
+- 🧠 Final project **re-educ**
+ <span> <p> Javascript | React | React-bootstrap | HTML5 | Express | Node.js | Stripe | Mongoose | MongoDb</p> </span>
+<span> <p>Client: [re-educ_Client](https://github.com/Gao83/re_educ-client)</p></span>
+<span> <p>Server: [re-educ_Server](https://github.com/Gao83/re_educ-server)</p></span>
 
+<span> <p>Final bootcamp project that consists of buying and selling online courses. It is where everything learned in the course has been put together using the whole Mern stack and including payment method with stripe.</p></span>
+<hr>
+
+- 🐧 Second project [**Pokered**](https://github.com/GabrielaBenalcazar/Pokered)
+ <span> <p> Javascript  | HTML5 | Express | Node.js | Poke Api | Mongoose | MongoDb</p> </span>
+
+<span> <p> Its a social network about pokemons in which we focused on building a server and a database using the Express framework with mongoose and Mongodb to manage the database.</p></span>
+<hr>
+
+- 🎮 Second project [**TENET**](https://github.com/mdelgado333/TENET/tree/main)
+ <span> <p> Javascript  | HTML5 | <canvas> | </span>
+
+<span> <p>First project developed with Canvas for the visual part and Javascript for the logical part and DOM´s manipulation. It is a single player shutter videogame.</p></span>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/cris_fab" target="blank"><img align="center"
